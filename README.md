@@ -2,6 +2,7 @@
 Marco Ledda, *Student Member, IEEE* 
 
 Alessandro Giua, *Fellow, IEEE*  
+
 Mauro Franceschelli, *Senior Member, IEEE*
 
 
