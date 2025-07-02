@@ -1,4 +1,4 @@
-# Repo - Adversarial Learning Attacks on Autoencoder-based models for Nonlinear Dynamical Systems
+# Adversarial Learning Attacks on Autoencoder-based models for Nonlinear Dynamical Systems
 Marco Ledda, *Student Member, IEEE* 
 
 Alessandro Giua, *Fellow, IEEE*  
